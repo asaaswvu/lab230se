@@ -1,5 +1,6 @@
 //somestuff
 ...
-cin >> someStuff
-do somestuff(stuff)
-cout << somestuff
+cin >> someStuff;
+do somestuff();
+do otherstuff();
+cout << somestuff;
