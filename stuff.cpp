@@ -1,5 +1,5 @@
 //somestuff
 ...
 cin >> someStuff
-do somestuff()
+do somestuff(stuff)
 cout << somestuff
