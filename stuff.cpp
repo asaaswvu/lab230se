@@ -1,5 +1,6 @@
 //somestuff
 ...
 cin >> someStuff;
-do somestuff();
+do somestuff(stuff);
+do otherstuff(things);
 cout << somestuff;
